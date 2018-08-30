@@ -4,7 +4,7 @@ title:      对UITableViewCell刷新造成动画失效的问题记录
 subtitle:   UITableViewCell 问题记录
 date:       2018-06-07
 author:     angBin
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
     - iOS
