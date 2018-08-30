@@ -1,17 +1,17 @@
 # Site settings
-title: angBin blog
+title: angBin Blog
 SEOTitle: 阿宝的博客 | angBin Blog
 header-img: img/post-bg-desk.jpg
 email: wangbofchina@gmail.com    895887420@qq.com
-description: "Everything will be good!"
+description: "angBin Blog"
 keyword: "angBin Blog, 阿宝的博客, angBin, 王斌, 前湖阿宝, iOS, Object-C, Web"
-url: "http://angBin.github.io"          # your host, for absolute URL
+url: "https://angBin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/angBin/angBin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Everything will be good!"
+sidebar-about-description: "Everything will be OK!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -56,13 +56,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: angBin
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 4283997d8d88b38a917b                            #生成的clientID
+  clientSecret: d0e1eca6327dc7946102557f126a87045c2d89cd    #生成的clientSecret
   repo: angBin.github.io    #仓库名称
   owner: angBin    #github用户名
   admin: angBin
@@ -73,11 +73,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 9b33a1d59d8988fd11106685a2a09618
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -85,7 +85,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -98,10 +98,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub | angBin",
+        title: "GitHub·angBin",
         href: "https://github.com/angBin"
     },{
-        title: "简书 | 前湖阿宝",
+        title: "简书·前湖阿宝",
         href: "https://www.jianshu.com/u/3d4cf9950954"
     }
 ]
