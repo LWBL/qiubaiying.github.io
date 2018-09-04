@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      对UITableViewCell刷新造成核心动画丢失的问题记录
+title:      【随笔】对UITableViewCell刷新造成核心动画丢失的问题记录
 subtitle:   UITableViewCell 问题记录
 date:       2018-06-07
 author:     angBin
