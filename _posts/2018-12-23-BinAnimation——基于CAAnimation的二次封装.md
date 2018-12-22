@@ -15,11 +15,6 @@ tags:
 
 # BinAnimation
 
-[![CI Status](https://img.shields.io/travis/angBin/BinAnimation.svg?style=flat)](https://travis-ci.org/angBin/BinAnimation)
-[![Version](https://img.shields.io/cocoapods/v/BinAnimation.svg?style=flat)](https://cocoapods.org/pods/BinAnimation)
-[![License](https://img.shields.io/cocoapods/l/BinAnimation.svg?style=flat)](https://cocoapods.org/pods/BinAnimation)
-[![Platform](https://img.shields.io/cocoapods/p/BinAnimation.svg?style=flat)](https://cocoapods.org/pods/BinAnimation)
-
 ## 为什么使用
 
 > 必要性：作为 iOS 开发工程师，在日常的开发工作中，虽然不需要像游戏开发一样设计各式各样酷炫的动画，但是简单的动画开发还是很有必要的。
