@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      BinAnimation
-subtitle:   BinAnimation——基于CAAnimation的二次封装
+subtitle:   ——基于CAAnimation的二次封装
 date:       2018-12-23
 author:     angBin
 header-img: img/post-bg-rwd.jpg
@@ -9,7 +9,7 @@ catalog: true
 tags:
     - iOS
     - Obj-C
-    - 关键字
+    - CAAnimation
 ---
 
 
