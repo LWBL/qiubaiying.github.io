@@ -15,6 +15,8 @@ tags:
 
 # BinAnimation
 
+[Link to GitHub](https://github.com/angBin/BinAnimation)
+
 ## 为什么使用
 
 > 必要性：作为 iOS 开发工程师，在日常的开发工作中，虽然不需要像游戏开发一样设计各式各样酷炫的动画，但是简单的动画开发还是很有必要的。
